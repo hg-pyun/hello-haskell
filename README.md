@@ -1,2 +1,2 @@
 # Haskell-Study
-Haskell Study Codoes
+Haskell Study Code
